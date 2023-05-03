@@ -1,3 +1,4 @@
+pub mod node_struct;
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
